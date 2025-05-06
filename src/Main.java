@@ -9,7 +9,8 @@ public class Main {
         System.out.println("please enter the score:");
         int score = scan.nextInt();
 
-        System.out.println("student name: %s \nstudent grade: %s".formatted(name,grade(score)));
+        System.out.println("student name: %s \nstudent grade: %s".formatted(name, grade(score)));
+
 
     }
 
